@@ -10,6 +10,9 @@ Refactoring your program:
 
 Create an instance of a Scanner class and name the object as input
 Using the Scanner object input you need to prompt the user to enter their information such as; firstName, midName, lastName, address, pass, lunch, numberOfSemester.
+
+
+
 Part 2
 
 Initialize two variables of type int and assign them with any desired values. Make use of the comparison and logical operators discussed.
